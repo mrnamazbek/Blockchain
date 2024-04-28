@@ -27,15 +27,15 @@ Before you start, ensure you have the following tools installed:
 ## Tutorial Walkthrough
 
 ### Introduction
-![Blockchain Development Opportunities](image-url-1)  
+![Blockchain Development Opportunities](https://habrastorage.org/getpro/habr/upload_files/350/61d/901/35061d90130dac22279045e3f118de3a.png)  
 Explore the lucrative opportunities in blockchain development, including potential earnings and the innovative applications of blockchain technology.
 
 ### Setting Up the Development Environment
-![Setting Up MetaMask](image-url-2)  
+![Setting Up MetaMask](https://img-c.udemycdn.com/course/480x270/4094150_c808.jpg)  
 A step-by-step guide on configuring MetaMask for interacting with Ethereum blockchain.
 
 ### Smart Contract Basics
-![Creating a Smart Contract](image-url-3)  
+![Creating a Smart Contract](https://uploads.laborx.com/gig/thumb_cropped_1256x814_gI61k9kb4kuksUPfmK65TkN6Lta39A-F.png)  
 Learn to create your first smart contract and understand the essential elements like variables, functions, and data types.
 
 ### Advanced Smart Contract Features
