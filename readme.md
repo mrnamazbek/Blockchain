@@ -39,11 +39,11 @@ A step-by-step guide on configuring MetaMask for interacting with Ethereum block
 Learn to create your first smart contract and understand the essential elements like variables, functions, and data types.
 
 ### Advanced Smart Contract Features
-![Advanced Contract Functions](image-url-4)  
+![Advanced Contract Functions] 
 Delve into advanced topics such as inheritance, loops, and contract interactions to build sophisticated dApps.
 
 ### Deploying and Interacting with Smart Contracts
-![Deploying Contracts](image-url-5)  
+![Deploying Contracts](https://cdn0.scrvt.com/b095ee27d37b3d7b6b150adba9ac6ec8/8c6ad29abd8b3ada/3f6b32b72af8/Overview.svg)  
 Follow detailed instructions on deploying your smart contracts and interacting with them using MetaMask and other tools.
 
 ### Conclusion
